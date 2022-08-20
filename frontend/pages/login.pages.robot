@@ -19,6 +19,7 @@ Clicar no botão submit para efetuar o login
 
 Verificar a exibição da mensagem de sucesso no login
     Page Should Contain Element    ${VALIDA_LOGIN}
+    Capture Page Screenshot
 
 # Gherking BDD
 

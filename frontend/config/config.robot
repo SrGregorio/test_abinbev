@@ -2,6 +2,6 @@
 Library     SeleniumLibrary
 
 *** Variables ***
-${BROWSER}             firefox
+${BROWSER}             chrome
 ${URL_HOST}            https://test-bees.herokuapp.com/
-${TIME_TO_WAIT}        0
+${TIME_TO_WAIT}        2
